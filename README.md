@@ -1,7 +1,7 @@
 <p>
 <h2 style="font-size:25pt;font-family:&quot;">
 <strong><span style="color:#ac975d;">
-Terms of Use for Painto
+Terms of Use for FilmClips
 </span></strong>
 </h2>
 <h3 style="vertical-align:top;font-family:&quot;color:#212529;font-size:18px;background-color:#FFFFFF;">
@@ -9,13 +9,13 @@ Acceptance of the terms of use
 </p>
 </h3>
 <p style="font-family:&quot;font-size:medium;">
-Please read the Agreement carefully before using the Service. By using Painto (the "App"), you are agreeing to be bound by these terms of use. If you do not agree to all the terms and conditions of this Agreement, you shouldn’t and aren’t permitted to use the Service. This Agreement applies to all visitors, users, and others who access the Service (“Users”).
+Please read the Agreement carefully before using the Service. By using FilmClips (the "App"), you are agreeing to be bound by these terms of use. If you do not agree to all the terms and conditions of this Agreement, you shouldn’t and aren’t permitted to use the Service. This Agreement applies to all visitors, users, and others who access the Service (“Users”).
 </p>
 <h3 style="font-family:&quot;">
 License
 </h3>
 <p style="vertical-align:top;font-family:&quot;font-size:15px;color:#212529;background-color:#FFFFFF;">
-You are granted a terminable, limited, non-transferable, non-exclusive license to install and use this Application on any compatible device that you own and control. You may not rent, lease, lend, sell, redistribute or sublicense this Application. Unless otherwise stated, all materials contained within the Application, as well as the content arrangement and selection, are protected by copyright, trademark, and other intellectual property laws. Painto does not grant any express or implied rights to use this intellectual property.
+You are granted a terminable, limited, non-transferable, non-exclusive license to install and use this Application on any compatible device that you own and control. You may not rent, lease, lend, sell, redistribute or sublicense this Application. Unless otherwise stated, all materials contained within the Application, as well as the content arrangement and selection, are protected by copyright, trademark, and other intellectual property laws. FilmClips does not grant any express or implied rights to use this intellectual property.
 </p>
 <p style="vertical-align:top;font-family:&quot;font-size:15px;color:#212529;background-color:#FFFFFF;">
 Except as provided by these Terms, you may not, and you agree not to or enable others to, copy, decompile, reverse engineer, disassemble, attempt to derive the source code of, decrypt, modify, or create derivative works of the Application, or any part thereof.
@@ -44,7 +44,7 @@ You expressly acknowledge and agree that, to the extent permitted by applicable 
 Limitations of Liability
 </h3>
 <p style="font-family:&quot;font-size:medium;">
-In no event shall Painto Apps or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the App and the materials on Painto Apps' website, even if Painto Apps or a Painto Apps authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+In no event shall FilmClips Apps or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the App and the materials on FilmClips Apps' website, even if FilmClips Apps or a FilmClips Apps authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 </p>
 <h3 style="vertical-align:top;font-family:&quot;color:#212529;font-size:18px;background-color:#FFFFFF;">
 Severability
@@ -56,7 +56,7 @@ If any provision contained in these Terms are deemed unlawful, void, or unenforc
 Modifications
 </h3>
 <p style="font-family:&quot;font-size:medium;">
-Painto Apps may revise these terms of use for its website and the App at any time without notice. By using this website and the App you are agreeing to be bound by the then current version of these terms of use.
+FilmClips Apps may revise these terms of use for its website and the App at any time without notice. By using this website and the App you are agreeing to be bound by the then current version of these terms of use.
 </p>
 <h3 style="font-family:&quot;">
 Contact
